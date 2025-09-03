@@ -1,0 +1,8 @@
+name: MaxKB
+title: 强大易用的开源企业级智能体平台
+additionalProperties:
+    tags:
+      - key: websearch 
+        name: 联网搜索
+      - key: database
+        name: 数据库查询
