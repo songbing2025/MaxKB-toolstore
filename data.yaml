@@ -1,15 +1,18 @@
 name: MaxKB
 title: 强大易用的开源企业级智能体平台
 additionalProperties:
+  version: 1.0.0
   tags:
     - key: web_search
       name: 联网搜索
+      sort: 10
       locales:
         en: "Web Search"
         zh-hant: "網頁搜尋"
         zh: "联网搜索"
     - key: database_search
       name: 数据库查询
+      sort: 20
       locales:
         en: "Database Search"
         zh-hant: "資料庫查詢"
