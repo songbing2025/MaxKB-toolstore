@@ -1,0 +1,23 @@
+name: "Run Build Dev"
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup OSSUTIL
+      uses: yizhoumo/setup-ossutil@v2
+      with:
+        endpoint: ${{ secrets.OSS_ENDPOINT }}
+        access-key-id: ${{ secrets.OSS_ACCESS_KEY_ID }}
+        access-key-secret: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
+        ossutil-version: 'latest'
+
+    - name: Upload Assets to OSS
+      run: |
+        ossutil sync apps oss://apps-fit2cloud-com/stable/metersphere --update --delete --force
