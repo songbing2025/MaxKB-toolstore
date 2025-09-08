@@ -1,4 +1,4 @@
-name: "上传应用至OSS stable"
+name: "上传应用至OSS dev"
 on:
   workflow_dispatch:
 
@@ -18,4 +18,4 @@ jobs:
 
     - name: Upload Assets to OSS
       run: |
-        ossutil sync apps oss://apps-fit2cloud-com/stable/maxkb --update --delete --force
+        ossutil sync apps oss://apps-fit2cloud-com/dev/maxkb --update --delete --force
