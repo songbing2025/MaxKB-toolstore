@@ -1,5 +1,5 @@
 name: MongoDB 数据库查询
 tags:
-  - database_search
+  - 数据库查询
 title: 实现 MongoDB 的查询操作
 description: 实现 MongoDB 的查询操作,支持对接 MongoDB 版本4.x以上版本.
