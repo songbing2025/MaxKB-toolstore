@@ -1,0 +1,2 @@
+# MaxKB Appstore
+MaxKB Appstore is a web application that allows users to browse, search, and download various applications. It is built using modern web technologies and provides a user-friendly interface for discovering new apps.
