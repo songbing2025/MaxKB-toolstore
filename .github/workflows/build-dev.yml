@@ -18,4 +18,4 @@ jobs:
 
     - name: Upload Assets to OSS
       run: |
-        ossutil sync apps oss://apps-fit2cloud-com/dev/maxkb --update --delete --force
+        ossutil sync tools oss://apps-fit2cloud-com/dev/maxkb --update --delete --force
