@@ -18,8 +18,8 @@ MaxKB Toolstore 是 MaxKB 智能体平台的官方工具商店，提供各类工
 
 ```
 MaxKB-toolstore/
-├── README.md              # 项目说明文档
-├── apps/                  # 工具目录
+├── README.md             # 项目说明文档
+├── tools/                # 工具目录
 │   ├── data.yaml         # 工具商店配置
 │   ├── logo.png          # 商店图标
 │   ├── metaso/           # 秘塔AI搜索工具
