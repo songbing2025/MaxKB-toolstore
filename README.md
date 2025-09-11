@@ -1,10 +1,10 @@
-# MaxKB Appstore
+# MaxKB Toolstore
 
 MaxKB 应用商店 - 强大易用的开源企业级智能体平台应用集合
 
 ## 📖 项目简介
 
-MaxKB Appstore 是 MaxKB 智能体平台的官方应用商店，提供各类工具应用来扩展 MaxKB 的功能。通过这些应用，您可以轻松地为 MaxKB 添加联网搜索、数据库查询等能力。
+MaxKB Toolstore 是 MaxKB 智能体平台的官方应用商店，提供各类工具应用来扩展 MaxKB 的功能。通过这些应用，您可以轻松地为 MaxKB 添加联网搜索、数据库查询等能力。
 
 ## 🚀 现有应用
 
@@ -17,7 +17,7 @@ MaxKB Appstore 是 MaxKB 智能体平台的官方应用商店，提供各类工�
 ## 📁 项目结构
 
 ```
-MaxKB-appstore/
+MaxKB-toolstore/
 ├── README.md              # 项目说明文档
 ├── apps/                  # 应用目录
 │   ├── data.yaml         # 应用商店配置
@@ -31,7 +31,6 @@ MaxKB-appstore/
 │       ├── data.yaml     # 应用配置
 │       ├── logo.png      # 应用图标
 │       ├── README.md     # 应用说明
-│       ├── requirements.txt # 依赖文件
 │       └── 1.0.0/        # 版本目录
 ```
 
@@ -44,7 +43,7 @@ MaxKB-appstore/
 
 ## 🤝 贡献指南
 
-如果您想为 MaxKB Appstore 贡献新的应用，请参考：
+如果您想为 MaxKB Toolstore 贡献新的应用，请参考：
 [如何提交自己想要的应用](./如何提交应用.md)
 
 ### 应用开发规范
@@ -57,7 +56,7 @@ MaxKB-appstore/
 
 ## 📞 联系我们
 
-- 项目地址：https://github.com/1panel-dev/MaxKB-appstore
+- 项目地址：https://github.com/1panel-dev/MaxKB-toolstore
 - 问题反馈：请在 GitHub Issues 中提交
 - 文档支持：参考 MaxKB 官方文档
 

@@ -19,7 +19,7 @@
 在使用此工具之前，需要先安装所需的依赖包：
 
 ```bash
-pip install -r requirements.txt
+pip install pymongo==4.14.1
 ```
 
 依赖包说明：
