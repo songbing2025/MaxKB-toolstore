@@ -1,4 +1,4 @@
-name: "上传应用至OSS stable"
+name: "上传工具至OSS stable"
 on:
   workflow_dispatch:
 
