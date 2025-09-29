@@ -44,4 +44,4 @@ pip install requests python-docx
 | -------- | -------- | -------- | ------ |
 | `content` | 字符串     | Markdown 文本| |
 | `file_name`   | 字符串   | DOCX 文件名 | |
-| `base_image_url` | 字符串   | MaxKB 知识库中图片地址前缀 | https://<MaxKB URL>/admin/ |
+| `base_image_url` | 字符串   | MaxKB 知识库中图片地址前缀 | https://<MaxKB_URL>/admin/ |
