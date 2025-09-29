@@ -17,3 +17,24 @@ additionalProperties:
         en: "Database Search"
         zh-hant: "資料庫查詢"
         zh: "数据库查询"
+    - key: http_tool
+      name: http工具
+      sort: 30
+      locales:
+        en: "Http Tool"
+        zh-hant: "Http工具"
+        zh: "Http工具"
+    - key: document_tool
+      name: 文档内容提取
+      sort: 40
+      locales:
+        en: "Document Tool"
+        zh-hant: "文檔內容提取"
+        zh: "文档内容提取"
+    - key: code_tool
+      name: 代码片段提取
+      sort: 50
+      locales:
+        en: "Code Tool"
+        zh-hant: "代碼片段提取"
+        zh: "代码片段提取"
