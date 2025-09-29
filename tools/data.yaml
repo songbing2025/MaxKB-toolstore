@@ -29,12 +29,5 @@ additionalProperties:
       sort: 40
       locales:
         en: "Document Tool"
-        zh-hant: "文檔內容提取"
-        zh: "文档内容提取"
-    - key: code_tool
-      name: 内容处理
-      sort: 50
-      locales:
-        en: "Code Tool"
-        zh-hant: "代碼片段提取"
-        zh: "代码片段提取"
+        zh-hant: "內容處理"
+        zh: "内容处理"
