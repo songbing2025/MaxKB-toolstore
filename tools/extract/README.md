@@ -24,4 +24,5 @@ pip install python-docx pdfplumber
 | MD | ✅ 完整支持 | 按原始格式提取内容 | Markdown |
 
 ## 使用说明
-![示例](img_1.png)
+ 功能跟 MaxKB 当中的 "文档内容提取" 功能一样，对PDF文件有更好的解析。
+ 
