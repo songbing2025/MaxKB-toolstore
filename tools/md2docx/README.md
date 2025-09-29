@@ -18,7 +18,7 @@ Kodbox 是一个开源的在线文件管理器，提供了方便的文件浏览�
 
 推荐使用 1panel 安装 Kodbox ，安装步骤如下：
 
-1. 安装 1panel，参考 1panel 官方文档：https://docs.1panel.io/docs/installation/install-1panel
+1. 安装 1panel，参考 1panel 官方文档：https://1panel.cn/docs/v2/installation/online_installation/
 2. 在 1panel 控制面板中，点击“应用商店”，搜索“Kodbox”，点击“安装”
 3. 安装完成后，在 1panel 控制面板中，点击“应用”，找到“Kodbox”，点击“访问”
 
@@ -44,4 +44,4 @@ pip install requests python-docx
 | -------- | -------- | -------- | ------ |
 | `content` | 字符串     | Markdown 文本| |
 | `file_name`   | 字符串   | DOCX 文件名 | |
-| `base_image_url` | 字符串   | MaxKB 知识库中图片地址前缀 | https://<MaxKB_URL>/admin/ |
+| `base_image_url` | 字符串   | MaxKB 知识库中图片地址前缀 | `https://<MaxKB_URL>/admin/` |
