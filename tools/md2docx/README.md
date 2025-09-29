@@ -35,7 +35,7 @@ pip install requests python-docx
 ### 启动参数    
 | 参数名称 | 参数类型 | 参数说明 | 默认值 |
 | -------- | -------- | -------- | ------ |
-| `server_url` | 字符串     | Kodbox 服务地址 | `http://127.0.0.1:8081`|
+| `server_url` | 字符串     | Kodbox 服务地址 | `http://<Kodbox_URL>`|
 | `username`   | 字符串   | Kodbox 用户名 | `<username>` |
 | `password`   | 字符串   | Kodbox 密码  | `<password>` |
 
