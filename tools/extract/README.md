@@ -24,4 +24,4 @@ pip install python-docx pdfplumber
 | MD | ✅ 完整支持 | 按原始格式提取内容 | Markdown |
 
 ## 使用说明
-![示例](./img_1.png)
+![示例](img_1.png)
