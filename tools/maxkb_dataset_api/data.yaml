@@ -1,0 +1,5 @@
+name: 调用 MaxKB 知识库 API 实现在线文档智能分段并完成向量化
+tags:
+  - 数据处理工具
+title: 调用 MaxKB 知识库 API
+description: 调用 MaxKB 知识库 API，实现在线文档智能分段并完成向量化，支持对接 MaxKB 2.x 以上版本.
